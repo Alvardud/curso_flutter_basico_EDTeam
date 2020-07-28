@@ -1,16 +1,23 @@
-# curso_flutter_basico
+# Curso Flutter Basico
 
-A new Flutter application.
+![](image_readme/image.png)
+Repositorio del curso de desarrollo movil con Flutter nivel basico, en la plataforma EDTeam
 
-## Getting Started
+## Instalación
 
-This project is a starting point for a Flutter application.
+Para la instalación de las herramientas utilizaremos
+*  [Flutter SDK](https://flutter.dev/docs/get-started/install) Seguir los pasos de instalación
+* Editor de texto, solo es necesario uno
+    * [VS Code](https://code.visualstudio.com/download)
+    * [Android Studio](https://developer.android.com/studio)
+* En caso de utilizar VS Code, instalar el [android SDK](https://developer.android.com/studio)
+* Se requerira un emulador de dispositivos Android o utilizar un [dipositivo físico](https://www.jiho.com/es/recuperar-datos/habilitar-usb-depuracion-en-android.html)
 
-A few resources to get you started if this is your first Flutter project:
+Una ves instalado todo, revisar que la instalación este correcta, mediante:
+* Abrir una consola (cmd o powershell en windows) (terminal en linux) y digitar
+```bash
+flutter doctor
+```
+# Puedes disfrutar del curso aqui
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Curso Flutter Basico](https://ed.team/cursos/flutter) 
